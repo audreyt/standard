@@ -28,7 +28,8 @@ Documenting codebase objectives:
 
 ## How to test
 
-There is an entry for the codebase objectives, mission or goal in the codebase documentation.
+* Confirm that there is an entry for the codebase objectives, mission or goal in the codebase documentation.
+* Check for descriptions of connections between policy objectives and codebase objectives.
 
 ## Policy makers: what you need to do
 
